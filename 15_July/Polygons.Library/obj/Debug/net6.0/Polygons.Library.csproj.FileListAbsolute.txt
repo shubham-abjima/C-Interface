@@ -1,0 +1,12 @@
+D:\c-Extension-Methods\Polygons\Polygons.Library\bin\Debug\net6.0\Polygons.Library.deps.json
+D:\c-Extension-Methods\Polygons\Polygons.Library\bin\Debug\net6.0\Polygons.Library.dll
+D:\c-Extension-Methods\Polygons\Polygons.Library\bin\Debug\net6.0\Polygons.Library.pdb
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\Polygons.Library.csproj.AssemblyReference.cache
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\Polygons.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\Polygons.Library.AssemblyInfoInputs.cache
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\Polygons.Library.AssemblyInfo.cs
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\Polygons.Library.csproj.CoreCompileInputs.cache
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\Polygons.Library.dll
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\refint\Polygons.Library.dll
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\Polygons.Library.pdb
+D:\c-Extension-Methods\Polygons\Polygons.Library\obj\Debug\net6.0\ref\Polygons.Library.dll

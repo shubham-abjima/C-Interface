@@ -1,0 +1,5 @@
+D:\C-Interface\FutureProofing\People.Library\obj\Debug\net6.0\People.Library.csproj.AssemblyReference.cache
+D:\C-Interface\FutureProofing\People.Library\obj\Debug\net6.0\People.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Interface\FutureProofing\People.Library\obj\Debug\net6.0\People.Library.AssemblyInfoInputs.cache
+D:\C-Interface\FutureProofing\People.Library\obj\Debug\net6.0\People.Library.AssemblyInfo.cs
+D:\C-Interface\FutureProofing\People.Library\obj\Debug\net6.0\People.Library.csproj.CoreCompileInputs.cache
