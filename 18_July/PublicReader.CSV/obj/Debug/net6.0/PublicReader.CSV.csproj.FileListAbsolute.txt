@@ -1,0 +1,5 @@
+D:\C-Interface\18_July\PublicReader.CSV\obj\Debug\net6.0\PublicReader.CSV.csproj.AssemblyReference.cache
+D:\C-Interface\18_July\PublicReader.CSV\obj\Debug\net6.0\PublicReader.CSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Interface\18_July\PublicReader.CSV\obj\Debug\net6.0\PublicReader.CSV.AssemblyInfoInputs.cache
+D:\C-Interface\18_July\PublicReader.CSV\obj\Debug\net6.0\PublicReader.CSV.AssemblyInfo.cs
+D:\C-Interface\18_July\PublicReader.CSV\obj\Debug\net6.0\PublicReader.CSV.csproj.CoreCompileInputs.cache

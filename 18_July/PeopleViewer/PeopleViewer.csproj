@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Properties\Resources.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Properties\Resources.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Abp.Web.Common" Version="7.3.0" />
+    <PackageReference Include="SharpCompress" Version="0.32.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PeopleReader.Service\PeopleReader.Service.csproj" />
+    <ProjectReference Include="..\PeopleReader.SQL\PeopleReader.SQL.csproj" />
+    <ProjectReference Include="..\PersonReader.Factory\PersonReader.Factory.csproj" />
+    <ProjectReference Include="..\PersonReader.Interface\PersonReader.Interface.csproj" />
+    <ProjectReference Include="..\PublicReader.CSV\PersonReader.CSV.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PeopleReader.Service\PeopleReader.Service.csproj" />
+    <ProjectReference Include="..\PeopleReader.SQL\PeopleReader.SQL.csproj" />
+    <ProjectReference Include="..\PersonReader.Interface\PersonReader.Interface.csproj" />
+    <ProjectReference Include="..\PublicReader.CSV\PersonReader.CSV.csproj" />
+  </ItemGroup>
+
+</Project>
