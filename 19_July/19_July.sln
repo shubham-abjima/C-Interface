@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogSaver", "19_July\CatalogSaver.csproj", "{EC6493AC-2636-4C3D-B890-8F1F1179FFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumbers", "OddNumbers\OddNumbers.csproj", "{11B1F38C-C745-4EF1-A7D6-744470865C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6493AC-2636-4C3D-B890-8F1F1179FFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6493AC-2636-4C3D-B890-8F1F1179FFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6493AC-2636-4C3D-B890-8F1F1179FFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6493AC-2636-4C3D-B890-8F1F1179FFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B1F38C-C745-4EF1-A7D6-744470865C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B1F38C-C745-4EF1-A7D6-744470865C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B1F38C-C745-4EF1-A7D6-744470865C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B1F38C-C745-4EF1-A7D6-744470865C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CC68AE-B535-43ED-8763-3898318BB4C2}
+	EndGlobalSection
+EndGlobal

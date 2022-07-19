@@ -1,0 +1,8 @@
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.csproj.AssemblyReference.cache
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.AssemblyInfoInputs.cache
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.AssemblyInfo.cs
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.csproj.CoreCompileInputs.cache
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.MvcApplicationPartsAssemblyInfo.cache
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.RazorAssemblyInfo.cache
+D:\C-Interface\19_July_Implementation\PeopleViewer\obj\Debug\net6.0\PeopleViewer.RazorAssemblyInfo.cs

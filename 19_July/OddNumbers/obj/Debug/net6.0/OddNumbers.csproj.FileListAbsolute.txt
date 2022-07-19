@@ -1,0 +1,15 @@
+D:\C-Interface\19_July\OddNumbers\bin\Debug\net6.0\OddNumbers.exe
+D:\C-Interface\19_July\OddNumbers\bin\Debug\net6.0\OddNumbers.deps.json
+D:\C-Interface\19_July\OddNumbers\bin\Debug\net6.0\OddNumbers.runtimeconfig.json
+D:\C-Interface\19_July\OddNumbers\bin\Debug\net6.0\OddNumbers.dll
+D:\C-Interface\19_July\OddNumbers\bin\Debug\net6.0\OddNumbers.pdb
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.csproj.AssemblyReference.cache
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.AssemblyInfoInputs.cache
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.AssemblyInfo.cs
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.csproj.CoreCompileInputs.cache
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.dll
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\refint\OddNumbers.dll
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.pdb
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\OddNumbers.genruntimeconfig.cache
+D:\C-Interface\19_July\OddNumbers\obj\Debug\net6.0\ref\OddNumbers.dll
